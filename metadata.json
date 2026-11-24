@@ -1,0 +1,12 @@
+{
+  "name": "Red Pilar",
+  "description": "Red colaborativa de alertas vecinales para Pilar, Buenos Aires. Avisos en tiempo real, validación comunitaria, mapa de ubicaciones y directorio de localidades sin inicio de sesión obligatorio.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
